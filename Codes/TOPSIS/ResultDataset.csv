@@ -1,0 +1,3 @@
+,Accuracy,Model Train time,Ease of use
+Pytorch,0.916,15.16,0.2
+Tensor,0.919,16.95,0.8
